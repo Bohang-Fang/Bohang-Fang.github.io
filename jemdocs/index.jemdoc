@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Chang Cai's Homepage
+
+~~~
+{}{img_left}{imgs/cc_gc23.jpg}{alt text}{}{200px}
+[https://chang-cai.github.io Chang Cai] \n 
+Research Assistant Professor \n
+Department of Electrical and Electronic Engineering \n 
+The University of Hong Kong \n 
+Hong Kong SAR \n 
+\n
+Email: changcai@hku.hk \n
+\[[https://scholar.google.com/citations?user=iZJFxh4AAAAJ&hl=en Google Scholar]\] | \[[https://www.linkedin.com/in/chang-cai-%E8%94%A1%E7%95%85-2925911a2 Linkedin]\] | \[[https://github.com/chang-cai Github]\] \n
+~~~
+
+== About me
+I am a Research Assistant Professor at the Department of Electrical and Electronic Engineering, The University of Hong Kong.
+I received my Ph.D. degree in Information Engineering from The Chinese University of Hong Kong in 2025, supervised by [https://staff.ie.cuhk.edu.hk/~yjzhang/ Prof. Angela Yingjun Zhang].
+Before that, I received my B.Eng. degree from the Yingcai Honors College, University of Electronic Science and Technology of China in 2021, advised by [https://scholar.google.com/citations?user=o6W_m00AAAAJ&hl=en Prof. Xiaojun Yuan].
+My research focuses on signal processing and machine learning for wireless communications, with a particular emphasis on the convergence of model-based algorithms and data-driven learning toward white-box and explainable AI solutions for future wireless networks.
+
+
+== News
+- \[12-2025\] I joined the Dept. of EEE, HKU, as a Research Assistant Professor. A new journey began!
+- \[09-2025\] Our invited [https://ieeexplore.ieee.org/abstract/document/11207199 position paper] on score-based generative modeling for ISAC performance evaluation is accepted by JCIN.
+- \[07-2025\] I successfully defended my Ph.D. thesis! Heartfelt thanks to my supervisor, [https://staff.ie.cuhk.edu.hk/~yjzhang/ Prof. Angela Yingjun Zhang], and to my committee members for their guidance, encouragement, and unwavering support.
+- \[12-2023\] Honored to be recognized for my contribution as Managing Editor of the IEEE Open Journal of the Communications Society (2022–2023).
+
+
+== Selected Publications
+- Score-Based Generative Models
+-- *C. Cai*, H. Jiang, X. Yuan, and Y. -J. A. Zhang, "Score-based turbo message passing for plug-and-play compressive imaging," 2025. \[[https://arxiv.org/abs/2512.14435 Paper]\] \[[https://ieeexplore.ieee.org/document/11143463 Conference]\] \[[https://github.com/chang-cai/STMP Code]\]
+-- *C. Cai*, W. Jiang, X. Yuan, and Y. -J. A. Zhang, "Joint activity detection and channel estimation for massive connectivity: Where message passing meets score-based generative priors," IEEE Journal on Selected Areas in Communications, 2026. \[[https://ieeexplore.ieee.org/document/11389767 Paper]\] \[[https://github.com/chang-cai/score-massive-connectivity Code]\]
+-- L. Chen, *C. Cai*\*, H. Yang, X. Yuan, and Y. -J. A. Zhang, "Scoring ISAC: Benchmarking integrated sensing and communications via score-based generative modeling," Journal of Communications and Information Networks, Sept. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11207199 Invited paper]\]
+
+- Semantic/Task-Oriented Communications
+-- *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "End-to-end learning for task-oriented semantic communications over MIMO channels: An information-theoretic framework," IEEE Journal on Selected Areas in Communications, vol. 43, no. 4, pp. 1292-1307, April 2025. \[[https://ieeexplore.ieee.org/document/10845817 Paper]\]
+-- *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "Multi-device task-oriented communication via maximal coding rate reduction," IEEE Transactions on Wireless Communications, vol. 23, no. 12, pp. 18096-18110, Dec. 2024. \[[https://ieeexplore.ieee.org/document/10689268 Paper]\] \[[https://github.com/chang-cai/TaskCommMCR2 Code]\]
+
+# == Research Interests 
+# - Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
+# - Data Mining, Information Retrieval, Recommender System 
+# - Computer Vision, Computer Graphics, Natural Language Processing
+
+# == Contact
+# Feel free to drop me an email if you are interested in my research or would like to have a chat. Looking forward to hearing from you!
+
+# ~~~
+# {}{raw}
+# <a href="https://clustrmaps.com/site/1c4ft"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=NWizu2yWycK5EqrBPOR0o0dQVhqWyBlfP_IrjRxF6ns&cl=ffffff" width="100" height="auto" /></a>
+# ~~~
+
+~~~
+{}{raw}
+<a href="https://mapmyvisitors.com/web/1c0mb"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=AW25ygGoUEq9tm2upSEDGgGPFyamWczXVgHc-3vjMzg&cl=ffffff" /></a>
+~~~
