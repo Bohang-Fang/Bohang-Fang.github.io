@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bohang-fang.github.io/sitemap.xml
